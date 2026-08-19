@@ -1,2 +1,1 @@
-console.log("This is main code");
-console.log("SARALA");
+console.log("feature 1 code");
