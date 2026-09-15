@@ -17,3 +17,4 @@ function F() {
   );
 }
 export default F;
+export default F;
