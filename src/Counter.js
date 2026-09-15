@@ -6,7 +6,7 @@ class Counter extends Component {
     return (
       <div>
         <h1>Counter using Class Component</h1>
-      <h2>Counter using Class Component</h2>
+      <h2>Counter using Class Component using pull </h2>
         <p>Count: {this.state.count}</p>
 <button onClick={this.incrementCount}>Increment</button>
       </div>
